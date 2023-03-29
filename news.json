@@ -1,0 +1,23 @@
+[
+        {
+          "cover": "https://www.developer-week.de/app/uploads/2022/07/DWX23_1500x500-Twitter.jpg.webp",
+          "title": "Teilnahme an der Developer Week 2023",
+          "date": "23.03.2023",
+          "text": "Ende Juni ist es wieder so weit: Die Developer Week in Nürnberg findet statt. Ich habe die Ehre dieses Jahr mit gleich 4 Beiträgen in der Agenda vertreten zu sein. So gibt es einen Workshop zur Softwarearchitektur, einen Vortrag zu Softwarequalität mit meiner geschätzten Kollegin Maria Petzold, aber auch einen weiteren Vortrag mit meiner Kollegin Christina Ulonska zur Nachhaltigkeit von Software. Mit dem letzten Beitrag nähere ich mich dann noch einem Thema mit dem ich erst jüngst Erfahrung sammeln konnte: Python. Hierzu werde ich die Grundlagen aus Sicht eines C# Entwicklers erläutern.",
+          "link": "https://www.developer-week.de/speaker/#/speaker/12212-hendrik-losch"
+        },
+        {
+          "cover": "https://www.interred.de/imgs/1/6/0/2/2Element_1-e236daa41fc13ac5.jpg",
+          "title": "Artikel in der Dotnetpro",
+          "date": "10.03.2023",
+          "text": "In der aktuellen Ausgabe der Dotnetpro habe ich einen Artikel zum Thema Softwarearchitektur veröffentlicht. Dieser gehört zu einer Miniserie, in welcher verschiedene Architekturmuster erläutert werden und eine Entscheidungshilfe für den Einsatz dieser Muster gegeben wird. Dabei wird außerdem die Entwicklung von rein prozeduralen Systemen hin zu verteilten, domänen getriebenen Applikationen auf Basis der Clean Architecture beleuchtet. Der erste Teil der Miniserie steht kostenlos auf der Webseite zur Verfügung.",
+          "link": "https://www.dotnetpro.de/planung/clean-code/architektur-blitzblank-2836418.html"
+        },
+        {
+          "cover": "https://d2sofvawe08yqg.cloudfront.net/arc42byexample/s_hero?1620520918",
+          "title": "Neues Buch",
+          "date": "05.03.2023",
+          "text": "Heute habe ich meine Arbeiten an einem neuen Buchprojekt abgeschlossen. Gernot Starke, Michael Simons, Stefan Zörner und Ralf D. Müller haben mir die Möglichkeit gegeben zum Buch 'Arc 42 by Example' beizutragen. Diese Chance habe ich natürlich gern genutzt und meine Beispielarchitektur für die Fotobestellsoftware FotoMaX hinzugefügt. Das Buch ist Version 2 bereits bei Leanpub erhältlich. Die neue Version wird dann zeitnahe ebenfalls bereitgestellt. Natürlich erhalten alle Leser von Version 2 auch kostenlos Version 3.",
+          "link": "https://leanpub.com/arc42byexample"
+        }
+      ]
