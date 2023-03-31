@@ -1,4 +1,11 @@
 [
+         {
+          "cover": "https://firebasestorage.googleapis.com/v0/b/hendrik-loesch.appspot.com/o/images%2FSoftwarequalitaet.jpg?alt=media&token=e2770d36-e0ed-4d88-8675-78b78c28c3aa",
+          "title": "Neues Videotraining",
+          "date": "31.03.2023",
+          "text": "Nun ist es endlich soweit. Mein neues Training wurde veröffentlicht. Diesmal geht es um Qualitätsmerkmale von Software. Damit runde ich nun nach vier Jahren meine Reihe zum Thema Softwarearchitektur ab. Aus diesem Grund werde ich Ende des Jahres den ersten Teil noch einmal neu aufzeichnen. Davor wird aber zunächst der Kurs zu Architekturmustern erweitert und die Reihe gegenüber der englischen LinkedIn Learning Platform gepicht! Mit etwas Glück kann ich dann nächstes Jahr die Englische Variante bekannt geben.",
+          "link": "https://www.linkedin.com/learning/einfuhrung-in-die-softwarearchitektur-5-qualitatsmerkmale-und-anforderungen/"
+        },
         {
           "cover": "https://www.developer-week.de/app/uploads/2022/07/DWX23_1500x500-Twitter.jpg.webp",
           "title": "Teilnahme an der Developer Week 2023",
