@@ -1,4 +1,11 @@
 [
+        {
+          "cover": "https://secure.meetupstatic.com/photos/event/a/3/8/a/clean_455861866.jpeg",
+          "title": "Dotnet Usergroup Dresden",
+          "date": "07.04.2023",
+          "text": "Meine Sprecherkarriere habe ich zu einem gewissen Grad der Dotnet Usergroup Dresden zu verdanken. Dort habe ich meinen ersten Vortrag gehalten. Leider ist sie durch Corona in eine Art Winterschlaf verfallen. Daraus möchte ich sie jetzt wieder erwecken und plane im Laufe der nächsten Monate 4 Vorträge. Der erste findet am 4. Mai statt und stellt eine Einführung in die Programmiersprache Python dar.",
+          "link": "https://www.meetup.com/de-DE/net-user-group-dresden/"
+        },
          {
           "cover": "https://firebasestorage.googleapis.com/v0/b/hendrik-loesch.appspot.com/o/images%2FSoftwarequalitaet.jpg?alt=media&token=e2770d36-e0ed-4d88-8675-78b78c28c3aa",
           "title": "Neues Videotraining",
