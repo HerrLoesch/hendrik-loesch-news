@@ -1,5 +1,12 @@
 [
         {
+          "cover": "https://www.developer-week.de/app/uploads/2022/07/DWX23_1500x500-Twitter.jpg.webp",
+          "title": "DWX started",
+          "date": "26.06.2023",
+          "text": "Jetzt geht sie los die DWX. Ab morgen kann man mich am Stand der ZEISS oder in einem meiner drei Vorträge finden.",
+          "link": "https://www.developer-week.de/"
+        },
+        {
           "cover": "https://firebasestorage.googleapis.com/v0/b/hendrik-loesch.appspot.com/o/images%2Fwearedevelopers-world-congress.png?alt=media&token=7e11092f-39af-47c6-9dc7-f986619aa29d",
           "title": "We are Developers",
           "date": "13.06.2023",
