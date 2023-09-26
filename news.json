@@ -1,4 +1,11 @@
 [
+         {
+          "cover": "https://www.sea-con.de/typo3conf/ext/seacon_sitepackage/Resources/Public/Images/seacon/logo-seacon.png",
+          "title": "Sea Con",
+          "date": "25.09.2023",
+          "text": "Wie mir vor kurzem mitgeteilt wurde, werde ich dieses Jahr wieder bei der Sea Con sprechen dürfen. Leider ist es 'nur' eine rein digitale Konferenz, aber da ich schon so viele Jahre bei der SEA CON teilnehme bin ich froh, dass sie überhaupt stattfindet.",
+          "link": "https://www.sea-con.de/seacon2023"
+        },
         {
           "cover": "https://www.software-architecture-alliance.de/typo3conf/ext/saa_sitepackage/Resources/Public/Images/saa/SAA_Logo.png",
           "title": "Architecture Alliance doch nicht",
