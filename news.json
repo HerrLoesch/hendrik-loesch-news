@@ -1,4 +1,11 @@
 [
+     {
+      "cover":"https://devopenspace.de/img/wahl-logo.png",
+      "title":"Dev Openspace",
+      "date":"29.09.2023",
+      "text":"Auch wenn die Agenda aktuell noch nicht ganz fest steht, kann ich schon jetzt sagen, dass ich am 13. Oktober in Leipzig einen Workshop zu Architekturdokumentation halte. Das wird das erste Mal seit sehr langer Zeit sein, dass ich wieder am Developer Openspace teilnehmen kann und ich freue mich bereits sehr darauf.",
+      "link":"https://devopenspace.de/"
+   },
    {
       "cover":"https://www.sea-con.de/typo3conf/ext/seacon_sitepackage/Resources/Public/Images/seacon/logo-seacon.png",
       "title":"Sea Con",
