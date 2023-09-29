@@ -1,30 +1,23 @@
 [
-         {
-          "cover": "https://www.sea-con.de/typo3conf/ext/seacon_sitepackage/Resources/Public/Images/seacon/logo-seacon.png",
-          "title": "Sea Con",
-          "date": "25.09.2023",
-          "text": "Wie mir vor kurzem mitgeteilt wurde, werde ich dieses Jahr wieder bei der Sea Con sprechen dürfen. Leider ist es 'nur' eine rein digitale Konferenz, aber da ich schon so viele Jahre bei der SEA CON teilnehme bin ich froh, dass sie überhaupt stattfindet.",
-          "link": "https://www.sea-con.de/seacon2023"
-        },
-        {
-          "cover": "https://www.software-architecture-alliance.de/typo3conf/ext/saa_sitepackage/Resources/Public/Images/saa/SAA_Logo.png",
-          "title": "Architecture Alliance doch nicht",
-          "date": "11.09.2023",
-          "text": "Gerade eben noch ankündigt, jetzt musste ich absagen: Leider fällt die Architecture Alliance für mich aus. Es ist mir aus privaten Gründen nicht möglich daran teilzunehmen und somit musste ich schweren Herzens absagen. Ich wünsche dennoch allen Beteiligten viel Spaß.",
-          "link": "https://www.software-architecture-alliance.de/2023"
-        },
-        {
-          "cover": "https://www.software-architecture-alliance.de/typo3conf/ext/saa_sitepackage/Resources/Public/Images/saa/SAA_Logo.png",
-          "title": "Architecture Alliance",
-          "date": "30.08.2023",
-          "text": "Dieses Jahr scheint das Jahr neuer Konferenzen für mich zu sein. Also nicht, dass die Konferenzen neu sind, es ist nur so, dass ich dieses Jahr auf so einigen Veranstaltungen bin, auf denen ich zuvor noch nicht war. Eine davon ist die Software Architecture Alliance. Dort darf ich am 27. September über die Rolle von Domain Driven Design im Kontext von Cyberphysischen Systemen sprechen.",
-          "link": "https://www.software-architecture-alliance.de/2023"
-        },
-         {
-          "cover": "https://hendrik-loesch.de/assets/zeiss-logo-d8e35339.svg",
-          "title": "Meine ZEISS Story",
-          "date": "11.08.2023",
-          "text": "Anfang des Jahres wurde ich gefragt ob ich mich an einer Kampagne zur Mitarbeitergewinnung beteiligen würde. Dafür wollte man mehr über meinen Alltag erfahren und dies entsprechend mit Videos, Fotos und Beschreibungen unterstützen. Eines der Ergebnisse dieser Kampagne kann man nun auf der Webseite von ZEISS sehen und damit einen gewissen Eindruck meiner Arbeit bekommen.",
-          "link": "https://www.zeiss.de/corporate/karriere/digitale-innovationen-bei-zeiss/zeiss-stories-hendrik.html"
-        }
-      ]
+   {
+      "cover":"https://www.sea-con.de/typo3conf/ext/seacon_sitepackage/Resources/Public/Images/seacon/logo-seacon.png",
+      "title":"Sea Con",
+      "date":"25.09.2023",
+      "text":"Wie mir vor kurzem mitgeteilt wurde, werde ich dieses Jahr wieder bei der Sea Con sprechen dürfen. Leider ist es 'nur' eine rein digitale Konferenz, aber da ich schon so viele Jahre bei der SEA CON teilnehme bin ich froh, dass sie überhaupt stattfindet.",
+      "link":"https://www.sea-con.de/seacon2023"
+   },
+   {
+      "cover":"https://www.software-architecture-alliance.de/typo3conf/ext/saa_sitepackage/Resources/Public/Images/saa/SAA_Logo.png",
+      "title":"Architecture Alliance doch nicht",
+      "date":"11.09.2023",
+      "text":"Gerade eben noch ankündigt, jetzt musste ich absagen: Leider fällt die Architecture Alliance für mich aus. Es ist mir aus privaten Gründen nicht möglich daran teilzunehmen und somit musste ich schweren Herzens absagen. Ich wünsche dennoch allen Beteiligten viel Spaß.",
+      "link":"https://www.software-architecture-alliance.de/2023"
+   },
+   {
+      "cover":"https://www.software-architecture-alliance.de/typo3conf/ext/saa_sitepackage/Resources/Public/Images/saa/SAA_Logo.png",
+      "title":"Architecture Alliance",
+      "date":"30.08.2023",
+      "text":"Dieses Jahr scheint das Jahr neuer Konferenzen für mich zu sein. Also nicht, dass die Konferenzen neu sind, es ist nur so, dass ich dieses Jahr auf so einigen Veranstaltungen bin, auf denen ich zuvor noch nicht war. Eine davon ist die Software Architecture Alliance. Dort darf ich am 27. September über die Rolle von Domain Driven Design im Kontext von Cyberphysischen Systemen sprechen.",
+      "link":"https://www.software-architecture-alliance.de/2023"
+   }
+]
