@@ -1,4 +1,11 @@
 [
+    {
+      "cover":"https://hendrik-loesch.de/assets/logo-linked-in-learning-10e6e7d3.png",
+      "title":"Neue Trainings",
+      "date":"28.11.2023",
+      "text":"Aktuell bin ich wieder in Gesprächen mit LinkedIn Learning zu neuen Trainings. Dazu gehört ein Update meines Trainings zur Softwarequalität, aber auch eine komplette Neugestaltung meiner Einführung in die Softwarearchitektur. Beides hat sehr gute Gründe. Beim Thema Softwarequalität haben sich deutliche Änderungen mit der Veröffentlichung der zweiten Edition der ISO 25010 ergeben. Beim Thema Softwarearchitektur wiederum, stelle ich mittlerweile einen kompletten Learning Path, durch den es nicht nötig ist so viel im Einführungstraining zu behandeln, wie ich dies getan habe. Die Aufnahmen sind aktuell für März 2024 angesetzt. Mit einer Veröffentlichung ist also ab etwa September 2024 zu rechnen.",
+      "link":"https://www.linkedin.com/learning/instructors/hendrik-losch"
+   },
      {
       "cover":"https://devopenspace.de/img/wahl-logo.png",
       "title":"Dev Openspace",
