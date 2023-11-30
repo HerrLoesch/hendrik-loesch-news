@@ -6,6 +6,13 @@
       "text":"Aktuell bin ich wieder in Gesprächen mit LinkedIn Learning zu neuen Trainings. Dazu gehört ein Update meines Trainings zur Softwarequalität, aber auch eine komplette Neugestaltung meiner Einführung in die Softwarearchitektur. Beides hat sehr gute Gründe. Beim Thema Softwarequalität haben sich deutliche Änderungen mit der Veröffentlichung der zweiten Edition der ISO 25010 ergeben. Beim Thema Softwarearchitektur wiederum, stelle ich mittlerweile einen kompletten Learning Path, durch den es nicht nötig ist so viel im Einführungstraining zu behandeln, wie ich dies getan habe. Die Aufnahmen sind aktuell für März 2024 angesetzt. Mit einer Veröffentlichung ist also ab etwa September 2024 zu rechnen.",
       "link":"https://www.linkedin.com/learning/instructors/hendrik-losch"
    },
+        {
+      "cover":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ISO_Logo_%28Red_square%29.svg/2224px-ISO_Logo_%28Red_square%29.svg.png",
+      "title":"ISO 25010",
+      "date":"15.11.2023",
+      "text":"Nun ist es endlich so weit, die zweite Edition der ISO 25010 ist nun veröffentlicht. Damit ergeben sich einige Änderungen an meinen Videotrainings, die ich im Laufe der nächsten Wochen und Monate ausarbeiten werden. Der Grund dafür ist recht einfach: Es haben sich verschiedene neue Bezeichnungen für Qualitätsmerkmale ergeben und es sind auch neue hinzugekommen.",
+      "link":"https://www.iso.org/standard/78176.html"
+   },
      {
       "cover":"https://devopenspace.de/img/wahl-logo.png",
       "title":"Dev Openspace",
