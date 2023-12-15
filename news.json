@@ -1,4 +1,11 @@
 [
+   {
+      "cover":"https://www.oop-konferenz.de/typo3conf/ext/oop_sitepackage/Resources/Public/Images/oop-2023/logo-oop-muenchen.png",
+      "title":"Fachforen OOP 2024",
+      "date":"15.12.2023",
+      "text":"Ich freue mich einmal mehr auf der OOP sein zu dürfen. Diesmal nicht auf der Hauptkonferenz, aber auf den kostenlosen Fachforen, werde ich über die Herausforderungen bei der Entwicklung von Produkten und Produktlinien im Kontext der Fertigung sprechen.",
+      "link":"https://www.oop-konferenz.de/oop-2024/fachforen"
+   },
     {
       "cover":"https://hendrik-loesch.de/assets/logo-linked-in-learning-10e6e7d3.png",
       "title":"Neue Trainings",
