@@ -1,4 +1,11 @@
 [
+    {
+      "cover":"https://decompiled.de/wp-content/uploads/2021/01/decompiled_logo_bright.svg",
+      "title":"DecompileD",
+      "date":"03.01.2023",
+      "text":"Konferenzen in meiner Heimatstadt Dresden sind immer etwas Besonderes für mich. Zum einen natürlich, weil ich nicht weit fahren muss, zum anderen aber auch weil ich mich hier in der ur-eigenen Community bewege, die sich meist aus den unzähligen Meetup und Usergroups Dresdens speist. Daher freut es mich dieses Jahr besonders, dass die DecompileD erneut stattfindet und auch einer meiner Beiträge ausgewählt wurde. In diesem wird sich alles um die Nachhaltigkeit von Software drehen.",
+      "link":"https://decompiled.de/"
+   },
    {
       "cover":"https://www.oop-konferenz.de/typo3conf/ext/oop_sitepackage/Resources/Public/Images/oop-2023/logo-oop-muenchen.png",
       "title":"Fachforen OOP 2024",
