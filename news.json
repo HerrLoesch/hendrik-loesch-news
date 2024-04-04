@@ -1,4 +1,18 @@
-[
+[    
+        {
+      "cover":"https://hendrik-loesch.de/assets/logo-linked-in-learning-10e6e7d3.png",
+      "title":"Neue Trainings",
+      "date":"04.04.2024",
+      "text":"Heute hatte ich eine Abstimmung mit dem Contentmanagement von LinkedIn Learning. Wir haben uns zu neuen Trainings ausgetauscht. Mein Ziel wird sein, bis Ende des Jahres das Training zu Qualitätsmerkmalen zu aktualisieren, da die ISO 25010 ein Update erfahren hat. Darüber hinaus nehmen wir Audiotrainings ins Visier. Die ersten Ideen und Arbeitstitel sind: „Nachhaltigkeit in der Software messen“ und „Softwarearchitekturen abseits der Cloud“.",
+      "link":"https://www.linkedin.com/learning/instructors/hendrik-losch"
+   },
+    {
+      "cover":"https://hendrik-loesch.de/assets/logo-linked-in-learning-10e6e7d3.png",
+      "title":"Training aufgezeichnet",
+      "date":"28.03.2024",
+      "text":"Im März habe ich eines meiner erfolgreichsten Trainings erneut aufgezeichnet. Die Einführung in die Softwarearchitektur, ist nun eine Einführung in den Learning Path und verweist auf viele verschiedene weitere Trainings zum Thema. Tatsächlich verfügbar wird die Aktualisierung wahrscheinlich im Juni, spätestens Juli.",
+      "link":"https://www.linkedin.com/learning/instructors/hendrik-losch"
+   },
     {
       "cover":"https://papercallio-production.s3.amazonaws.com/uploads/event/logo/6303/mid_300_4_Decompiled_Horizontal_Negative.jpg",
       "title":"DecompileD",
