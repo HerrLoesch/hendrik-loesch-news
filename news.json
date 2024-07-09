@@ -1,4 +1,11 @@
 [    
+                  {
+      "cover":"https://firebasestorage.googleapis.com/v0/b/hendrik-loesch.appspot.com/o/Einfuehrung-Architektur.jpg?alt=media&token=6edb2fc0-6913-468f-bd3c-d3802bfbc33c",
+      "title":"Neues Videotraining",
+      "date":"01.07.2024",
+      "text":"Heute ist ein neues Videotraining von mir erschienen. Wobei ganz neu ist es nicht. Ich habe den Grundkurs zur Softwarearchitektur erneut aufgenommen, der bereits 2019 veröffentlicht wurde. Grund dafür war, dass sich aus diesem Kurs mittlerweile ein ganzer Lernpfad entwickelt hat. Die alte Version enthielt somit viele redundante Informationen, welche nun durch Verweise auf andere Trainings ersetzt wurden. Dazu kam noch eine dynamischere Darstellung, um einen der Hauptkritikpunkte des alten Trainings zu adressieren.",
+      "link":"https://www.linkedin.com/learning/instructors/hendrik-losch"
+   },
                 {
       "cover":"https://www.messe-berlin.de/globale-medien/globale-bilder/messekalender/logo_wearedevelopers.png",
       "title":"We Are Developers",
