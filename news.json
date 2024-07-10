@@ -1,4 +1,11 @@
 [    
+  {
+      "cover":"https://www.dotnet-developer-conference.de/app/uploads/2024/04/DDC24-360x80_logo.jpg",
+      "title":"DDC",
+      "date":"10.07.2024",
+      "text":"Entgegen meiner Gewohnheit konnte ich dieses Jahr leider nicht an der Developer Week in Nürnberg teilnehmen. Das erste Mal seit 12 Jahren! Dafür habe ich es aber geschafft bei der kleinen Schwester, der .NET Developer Conference in Köln angenommen zu werden. Dort sind jetzt zwei Vorträge und ein Workshop geplant. Ich freue mich schon sehr. Da beide Konferenzen eigentlich einen festen Platz in meinem Konferenzkalender haben.",
+      "link":"https://www.dotnet-developer-conference.de/"
+   },
                   {
       "cover":"https://firebasestorage.googleapis.com/v0/b/hendrik-loesch.appspot.com/o/Einfuehrung-Architektur.jpg?alt=media&token=6edb2fc0-6913-468f-bd3c-d3802bfbc33c",
       "title":"Neues Videotraining",
@@ -6,8 +13,15 @@
       "text":"Heute ist ein neues Videotraining von mir erschienen. Wobei ganz neu ist es nicht. Ich habe den Grundkurs zur Softwarearchitektur erneut aufgenommen, der bereits 2019 veröffentlicht wurde. Grund dafür war, dass sich aus diesem Kurs mittlerweile ein ganzer Lernpfad entwickelt hat. Die alte Version enthielt somit viele redundante Informationen, welche nun durch Verweise auf andere Trainings ersetzt wurden. Dazu kam noch eine dynamischere Darstellung, um einen der Hauptkritikpunkte des alten Trainings zu adressieren.",
       "link":"https://www.linkedin.com/learning/instructors/hendrik-losch"
    },
+    {
+      "cover":"https://www.ittage.informatik-aktuell.de/fileadmin/pics/Design-Elemente/ITT-Logo-Farbe-2024.svg",
+      "title":"IT Tage",
+      "date":"15.06.2024",
+      "text":"Wie ich heute erfahren habe, wurde einer meiner Vorträge bei den IT Tagen angenommen. Diese finden in Frankfurt am Main statt. Eigentlich eine Stadt, die etwas außerhalb meines üblichen Einzugsgebiets liegt, aber dennoch sehr gut per Zug zu erreichen ist 😉 Weiterhin verbinden mich mit der Konferenz einige schöne Erinnerungen, da sie immer einen ganz besonderen Mix unterschiedlichster Technologien und Themen bietet. Es freut mich also, dass ich einmal mehr etwas dazu beitragen darf. Das es sich um den 10. Geburtstag handelt, macht die Sache noch einmal interessanter.",
+      "link":"https://www.ittage.informatik-aktuell.de/index.html"
+   },
                 {
-      "cover":"https://www.messe-berlin.de/globale-medien/globale-bilder/messekalender/logo_wearedevelopers.png",
+      "cover":"https://cache.sessionize.com/image/d0ef-1140o400o3-35-3ee1-499c-8aed-a170ceb11a02.9b1b14ca-4a17-483d-83c5-80d4a4ea3d57.png",
       "title":"We Are Developers",
       "date":"14.05.2024",
       "text":"We are Developers World Congress, ist die größte mir bekannte Konferenz zum Thema Softwareentwicklung in Europa. Dieses Jahr planen die Veranstalter mit bis zu 15 000 Teilnehmenden und wenn ich mir das Event letztes Jahr ins Gedächtnis rufe, haben sie allen Grund so optimistisch zu sein. Ich freue mich jedenfalls dieses Jahr zwei Vorträgen halten zu dürfen und werde auch die gesamte Konferenz am ZEISS Stand zu finden sein.",
